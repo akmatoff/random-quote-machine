@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "quote": "A day without sunshine is like, you know, night.",
+    "author": "Steve Martin"
+  },
+  {
+    "id": 2,
+    "quote": "Laziness is nothing more than the habit of resting before you get tired.",
+    "author": "Jules Renald"
+  },
+  {
+    "id": 3,
+    "quote": "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 4,
+    "quote": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 5,
+    "quote": "I can live for two months on a good compliment.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 6,
+    "quote": "When something is important enough, you do it even if the odds are not in your favor.",
+    "author": "Elon Musk"
+  },
+  {
+    "id": 7,
+    "quote": "Patience is a virtue, and I'm learning patience. It's a tough lesson.",
+    "author": "Elon Musk"
+  },
+  {
+    "id": 8,
+    "quote": "It's OK to have your eggs in one basket as long as you control what happens to that basket.",
+    "author": "Elon Musk"
+  }
+]
